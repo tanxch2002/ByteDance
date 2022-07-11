@@ -1,0 +1,5 @@
+1:
+app:点击程序图标、执行main函数、通过UIApplicationMain函数、初始化UIApplication对象并且为它设置代理对象、UIApplication对象、程序结束推出
+ViewController：alloc/init,loadView,viewDidLoad,viewWillAppear,viewDidAppear,viewWillDisappear,vieDidDisappear,dealloc
+2:UIScrollView,UITableView,UIcollectionView,UiWebView,WKWebView
+3:借助UIViewController
